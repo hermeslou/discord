@@ -1,2 +1,1 @@
-# discord
-discordbots
+Please read the rules!
